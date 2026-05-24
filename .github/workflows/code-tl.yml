@@ -25,6 +25,8 @@ on:
           - 720
           - 480
           - 360
+          - 260
+          - 144
           - audio
       password:
         description: '🔒 Password for zip files (optional)'
